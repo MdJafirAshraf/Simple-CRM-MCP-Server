@@ -1,8 +1,3 @@
-# Simple-CRM-MCP-Server
-This is a solid starting point for a Model Context Protocol (MCP) server. Since you're using `FastMCP`, the integration is clean and easy to document.
-
----
-
 # CRM Manager MCP Server
 
 A Model Context Protocol (MCP) server that provides an interface to manage contacts, leads, and deal stages in a CRM environment. Built with the **FastMCP** framework, this server allows AI assistants (like Claude) to search your database, create leads, and track revenue stats in real-time.
